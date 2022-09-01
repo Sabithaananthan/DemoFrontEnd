@@ -1,24 +1,19 @@
 .flex-rect{
     display: flex;
     position: relative;
+    margin: 50%;
     justify-content: center;
     align-content: center;
-    padding: 25% 50%;
 }
 
 .rect{
     width: 500px;
     height: 250px;
     background-color: blue;
-   padding-left: 12%;
 }
 
-#inline-rect{
-    display: inline;
-}
 
 .circle{
-
     width: 250px;
     height: 250px;
     border-radius: 50%;
